@@ -23,3 +23,5 @@ for line in f:
             waketime+=wav_length
         total_time+=wav_length
 print('非唤醒词测试总时长为{},唤醒词测试总时长为{},测试总时长为{},hixiaowen唤醒词时长为{},你好问问时长为{}'.format(nonwaketime,waketime,total_time,hiwake,nihaowake))
+def dd():
+    pass
